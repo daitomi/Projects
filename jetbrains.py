@@ -1,4 +1,4 @@
-
+# this is a project I did on the site "jetbrains"
 import random
 
 # step 1
