@@ -1,3 +1,5 @@
+# note: the code is a little bit messy. Try to use less global variable and more return statements next time!
+
 # variables------------------------------------------------------------------------------------------------------------
 water = 400
 milk = 540
