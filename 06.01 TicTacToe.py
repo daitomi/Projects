@@ -1,3 +1,4 @@
+# the third part of the tic tac toe project!! It was pretty hard for me, and I am realy I glad I finally got it
 class TicTacToe:
     cells = input("Enter cells: ")
     X = False
